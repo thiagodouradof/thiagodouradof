@@ -2,10 +2,21 @@
 
  <div>
    <a href="https://github.com/ThiagoDouradoF">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoDouradoF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <!--    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDouradoF&layout=compact&langs_count=6&theme=tokyonight"/> -->
 </div>
     
+<div>
+   😃 Me chamo Thiago, sou entusiasta de tecnologia e solucionador de problemas.<br><br>
+ 
+   ✨ Já trabalhei com desenvolvimento Full Stack, com experiência em práticas Agile, possuo Inglês avançado e tenho a certificação Yellow Belt Lean 6 Sigma.
+   Eu tenho experiência profissional em C#, SQL, Desenvolvimento Web, Sistemas de Versionamento e Banco de Dados.<br>
+ 
+   ⚡ Sou estudante de Ciência da Computação e de Ciência e Tecnologia pela UFABC (Universidade Federal do ABC), apaixonado por programação, games e tecnologia.
+   Busco oportunidades júnior/trainee/estágios na área de TI. 
+</div>
+    
+## Algumas ferramentas que tenho experiência:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
